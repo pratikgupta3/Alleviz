@@ -1,0 +1,129 @@
+.fontwhite{
+color: white;
+}
+.bgblue{
+    background-color: #3ca1fd;
+}
+.sd1{
+    border-radius: 30px;
+    margin-top: 30px;
+    padding: 15px;
+    font-size: 10px;
+}
+.sd2{
+    border-radius: 30px;
+    margin-top: 30px;
+    padding: 25px;
+    font-size: 10px;
+    border:1px solid #fbeafb;
+}
+.sd3{
+    border-radius: 30px;
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 10px;
+    border:1px solid #fbeafb;
+}
+.border1{
+    border-radius: 30px;
+    margin:10px 10px 10px 10px;
+    /* padding: 10px; */
+    border:2px solid #fbeafb;
+}
+.margintop{
+    margin-top: 10px;
+}
+.marginbottom{
+    margin-bottom: 15px;
+}
+.borderradius{
+    border-radius: 30px;
+    border:2px solid #fbeafb;
+}
+.borderradius15{
+    border-radius: 15px;
+    border:2px solid #fbeafb;
+}
+.bglightblue{
+background-color: #deedff;
+}
+.sd5{
+    border-radius: 30px;
+    /* margin-top: 30px; */
+    padding: 15px;
+    border:2px solid #fbeafb;
+}
+.fontsize30{
+font-size: 30px;
+}
+.padding30{
+padding: 27px;
+}
+.padding15{
+    padding: 15px;
+    }
+    .borderradius1{
+        border-radius: 10px;
+        
+    }
+    .alignright{
+        text-align: right;
+    }
+    .cursor{
+        cursor: pointer;
+    }
+.hover1:hover{
+ background-color: #3ca1fd;
+ color: white;
+}
+.sd1:active{
+    background-color: #3ca1fd;
+}
+.ds1{
+    display: inline-block;
+}
+.ds2{
+    display: inline-block;
+    font-size: 14px;
+}
+.marginbottom1{
+    margin-bottom: 48px;
+    border-radius: 35px;
+}
+#margintop1{
+    margin-top: 30px !important;
+}
+#paddingtop25{
+    padding-top: 25px;
+}
+.shadow{
+    box-shadow: 0 2px 5px 0 #d6d6d6;
+
+}
+.marginlr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.margint20{
+margin-top: 50px;
+}
+.fontsize12{
+    font-size: 13px;
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+}
+.margintop16{
+    margin-top: 16px;
+}
+.margintop40{
+    margin-top: 40px;
+}
+.margin10{
+    margin: 10px;
+}
+.colorborder{
+border-left: 5px solid #fcbf2d;
+}
+.margintopminus{
+    margin-top: -15px;
+}
